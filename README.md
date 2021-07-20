@@ -1,0 +1,2 @@
+# Form-data-validation-with-JavaScript.
+Form validation is a way for you to tell the user what kind of input is required in each field and allows you to notify the user when the input is incorrect. There are many ways to do form validation (via HTML, client-side scripting or server-side scripting). In this project, and will use Javascript and write a plugin that displays information/error messages next to input fields.
